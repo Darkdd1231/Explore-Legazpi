@@ -1,0 +1,1 @@
+import Header from "@/components/Header";export default function MapPage(){return <><Header/><main className="wrap section"><h1>Bicol, on the <em>map.</em></h1><div className="map"><h2>Interactive map coming next</h2><p>Planned: OpenStreetMap and PostGIS-powered destination discovery.</p></div></main></>}
