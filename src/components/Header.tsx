@@ -1,0 +1,1 @@
+import Link from "next/link";\nexport default function Header(){return <header className="header"><Link href="/" className="brand">EXPLORE <b>LEGAZPI</b></Link><nav><Link href="/explore">Explore</Link><Link href="/road-trips">Road trips</Link><Link href="/transportation">Transport</Link><Link href="/map">Map</Link></nav></header>}
